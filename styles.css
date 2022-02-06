@@ -1,0 +1,219 @@
+* {
+    box-sizing: border-box;
+    
+}
+
+.container {
+    background-color: #1F2937;
+    display: flex;
+    flex-direction: column;
+}
+
+.one {
+    color: white;
+    display: flex;
+    flex-direction: row;
+    height: 80px;
+    width: 100%;
+}
+
+.oneLeft {
+
+    display: flex;
+    font-size: 10px;
+    width: 50%;
+    justify-content: center;
+    padding: 5px;
+    align-items: center;
+}
+
+div.oneRight > * {
+    display: flex;
+    flex-direction: row;
+    height: 20px;
+    width: 100px;
+    font-size: 10px;
+    padding: 5px;
+}
+
+.logo {
+    width: 100px;
+}
+
+.oneRight {
+    display:flex ;
+    width: 50%;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+}
+
+.two {
+    height: 200px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.title {
+    color: white;
+    font-size: 32px;
+}
+
+.under {
+    color: grey;
+}
+
+.sign {
+    display: flex;
+    color: white;
+    width: 80px;
+    justify-content: center;
+    background-color: blue;
+}
+
+.twoOne {
+    height: 175px;
+    width: 315px;
+
+}
+
+.twoTwo {
+    height: 175px;
+    width: 315px;
+    background-color: grey;
+}
+
+.three {
+    display: flex;
+    font-weight: bold;
+    padding: 10px;
+    height: 200px;
+    background-color: white;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+}
+
+.random {
+    font-size: larger;
+
+    height: 45px;
+}
+.boxBox {
+    display: flex;
+    height: 150px;
+    width: 700px;
+
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-items: center;
+}
+
+.box {
+
+    height: 140px;
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+}
+
+.boxText {
+    padding: 15px;
+    height: 50px;
+    width: 110px;
+    font-size: 8px;
+    
+}
+
+.littleBox {
+    border: 2px solid blue;
+    height: 60px;
+    width: 60px;
+}
+
+.four {
+    height: 200px;
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.quoteBox {
+    height: 100px;
+    width: 60%;
+    font-size: 25px;
+    font: 22px light italic;
+}
+
+
+.thor {
+    font: 25px light italic;
+    height: 20px;
+    width: 60%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+.five {
+    height: 200px;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.blueBox {
+    background-color: blue;
+    display: flex;
+    height: 80px;
+    width: 500px;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    
+}
+
+.textBox {
+    height: 80px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.signUp {
+    height: 25px;
+    width: 80px;
+    display:flex;
+    border: 1px solid white;
+    justify-content: center;
+}
+
+.call {
+    width: 300px;
+}
+
+.product {
+    height: 30px;
+    width: 400px;
+
+}
+
+
+.six {
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.copy {
+    color: white;
+}
